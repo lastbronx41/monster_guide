@@ -1,2 +1,2 @@
 # monster_guide
-monster type web guide_react
+monster website guide for class using create react app
